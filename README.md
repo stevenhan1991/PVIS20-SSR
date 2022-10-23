@@ -1,5 +1,5 @@
-# SSR-VFD: Spatial Super-resolution for Vector Field Data Analysis and Visualization
-Pytorch implementation for SSR-VFD: Spatial Super-resolution for Vector Field Data Analysis and Visualization.
+# SSR-VFD: Spatial Super-Resolution for Vector Field Data Analysis and Visualization
+Pytorch implementation for SSR-VFD: Spatial Super-Resolution for Vector Field Data Analysis and Visualization.
 
 ## Vessel
 ```
