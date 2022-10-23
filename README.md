@@ -22,6 +22,7 @@ python inference.py -p supernova
 If you want to change the upscale
 ```bash
 python3 train.py -dp Supernova_2 -ds 123 -dx 256 -dy 256 -dz 256 -p supernova -up 2
+```
 
 ## Citation 
 ```
