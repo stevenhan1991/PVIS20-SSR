@@ -1,4 +1,5 @@
-# PVIS20-SSR
+# SSR-VFD: Spatial super-resolution for vector field data analysis and visualization
+Pytorch implementation for SSR-VFD: Spatial super-resolution for vector field data analysis and visualization.
 
 ## Vessel
 ```
@@ -50,3 +51,14 @@ python bicubic.py -p cylinder_xxx_8
 python train.py -dp ../dataset/Tornado -ds 48 -dx 128 -dy 128 -dz 128 -csx 50 -csy 50 -csz 50 -up 4 -p 5
 python train.py -p 5 -ct True
 python inference.py -p 5 -ct True -ca True
+
+## Citation 
+```
+@inproceedings{guo2020ssr,
+  title={SSR-VFD: Spatial super-resolution for vector field data analysis and visualization},
+  author={Guo, Li and Ye, Shaojie and Han, Jun and Zheng, Hao and Gao, Han and Chen, Danny Z and Wang, Jian-Xun and Wang, Chaoli},
+  booktitle={Proceedings of IEEE Pacific visualization symposium},
+  year={2020}
+}
+
+```
