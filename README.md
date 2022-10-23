@@ -30,7 +30,5 @@ python3 train.py -dp Supernova_2 -ds 123 -dx 256 -dy 256 -dz 256 -p supernova -u
   author={Guo, Li and Ye, Shaojie and Han, Jun and Zheng, Hao and Gao, Han and Chen, Danny Z and Wang, Jian-Xun and Wang, Chaoli},
   booktitle={Proceedings of IEEE Pacific isualization Symposium},
   pages={71-80},
-  year={2020}
-}
-
+  year={2020}}
 ```
