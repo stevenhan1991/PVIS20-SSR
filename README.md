@@ -1,5 +1,5 @@
-# SSR-VFD: Spatial super-resolution for vector field data analysis and visualization
-Pytorch implementation for SSR-VFD: Spatial super-resolution for vector field data analysis and visualization.
+# SSR-VFD: Spatial Super-resolution for Vector Field Data Analysis and Visualization
+Pytorch implementation for SSR-VFD: Spatial Super-resolution for Vector Field Data Analysis and Visualization.
 
 ## Vessel
 ```
@@ -57,7 +57,8 @@ python inference.py -p 5 -ct True -ca True
 @inproceedings{guo2020ssr,
   title={SSR-VFD: Spatial super-resolution for vector field data analysis and visualization},
   author={Guo, Li and Ye, Shaojie and Han, Jun and Zheng, Hao and Gao, Han and Chen, Danny Z and Wang, Jian-Xun and Wang, Chaoli},
-  booktitle={Proceedings of IEEE Pacific visualization symposium},
+  booktitle={Proceedings of IEEE Pacific isualization Symposium},
+  pages={71-80},
   year={2020}
 }
 
