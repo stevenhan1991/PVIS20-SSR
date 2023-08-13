@@ -33,3 +33,6 @@ python3 train.py -dp Supernova_2 -ds 123 -dx 256 -dy 256 -dz 256 -p supernova -u
   pages={71-80},
   year={2020}}
 ```
+
+## Acknowledgements
+This research was supported in part by the U.S. National Science Foundation (NSF) through grants IIS-1455886, CCF-1617735, CNS-1629914, and CMMI-1934300, and the U.S. Defense Advanced Research Projects Agency (DARPA) under the Physics of Artificial Intelligence (PAI) program (contract HR00111890034).
